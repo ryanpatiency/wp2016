@@ -1,0 +1,21 @@
+body{
+  position: relative;
+}
+
+#about{
+  padding-top:50px;
+  height:520px;
+  background-color: #e6e6e6;
+}
+
+#portforlio{
+  padding-top:50px;
+  height:520px;
+  background-color: #f2f2f2;
+}
+
+#contact{
+  padding-top:50px;
+  height:520px;
+  background-color: #e6e6e6;
+}
